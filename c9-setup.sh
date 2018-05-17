@@ -18,7 +18,7 @@ mvn --version
 sudo wget -O /etc/yum.repos.d/cloudfoundry-cli.repo https://packages.cloudfoundry.org/fedora/cloudfoundry-cli.repo
 sudo yum -y install cf-cli
 echo "use this command to login to Pivotal Cloud Foundry"
-echo "cf login -a api.run.pivotal.io
+echo "cf login -a api.run.pivotal.io"
 # cf login -a api.run.pivotal.io
 
 
