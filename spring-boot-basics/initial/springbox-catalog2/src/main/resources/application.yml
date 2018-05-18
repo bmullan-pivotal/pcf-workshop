@@ -1,4 +1,0 @@
-spring:
-  application:
-    name: springbox-catalog
-greeting: Hello, World
